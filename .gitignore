@@ -1,0 +1,17 @@
+# Ignore compiled binaries
+smart-htop
+*.o
+*.out
+
+# Editor backup files
+*~
+*.swp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
