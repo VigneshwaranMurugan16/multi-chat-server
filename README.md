@@ -53,7 +53,8 @@ gcc client.c -o chat-client -pthread
 
 ## 📤 Demo Outputs
 ![image](https://github.com/user-attachments/assets/b8a6b856-d90a-489d-81d0-7a442e87aa11)
-![image](https://github.com/user-attachments/assets/a5e1b9fa-11b2-427b-9642-54364347c81f)
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/73d40fbb-e9b4-4325-8ad9-be4b12df2e17" />
+
 
 ## 🎮 Usage Controls
 -GCC compiler
