@@ -51,6 +51,10 @@ gcc client.c -o chat-client -pthread
 ```
 3.Enter your username when prompted and start chatting!
 
+## 📤 Demo Outputs
+![image](https://github.com/user-attachments/assets/b8a6b856-d90a-489d-81d0-7a442e87aa11)
+![image](https://github.com/user-attachments/assets/a5e1b9fa-11b2-427b-9642-54364347c81f)
+
 ## 🎮 Usage Controls
 -GCC compiler
 -Unix/Linux environment (tested on Kali Linux and Ubuntu)
